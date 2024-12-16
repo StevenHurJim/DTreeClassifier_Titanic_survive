@@ -1,9 +1,15 @@
-# Titanic model DTC
-Modelo de titanic de prueba con colab en formato pkl.
-# Model
-Decision tree classifier with 0.77 confusion_matrix and accuracy of 0.97.
-Using dtreeviz for get the survivors called "ModelDT_dtree.svg" and "Modelo_DT_dtreeviz.svg"
-Finally, export as format "ModelBase_Arbol.pkl" to implementate in google colab
+# Titanic Model DTC
+A Titanic test model created using Google Colab and exported in `.pkl` format.
+
+## Model
+Decision Tree Classifier with a **confusion matrix score** of **0.77** and an **accuracy** of **0.97**.
+
+Used **dtreeviz** to visualize the survivors, generating the files:
+- `ModelDT_dtree.svg`
+- `Modelo_DT_dtreeviz.svg`
+
+Finally, the model was exported as `ModelBase_Arbol.pkl` for implementation in Google Colab.
+
 
 
 
