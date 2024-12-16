@@ -1,14 +1,11 @@
-# EjPythonModulo1
-Algunos ejercicios correspondientes al modulo 1 del curso de ML usando python.
+# Titanic model DTC
+Modelo de titanic de prueba con colab en formato pkl.
+# Model
+Decision tree classifier with 0.77 confusion_matrix and accuracy of 0.97.
+Using dtreeviz for get the survivors called "ModelDT_dtree.svg" and "Modelo_DT_dtreeviz.svg"
+Finally, export as format "ModelBase_Arbol.pkl" to implementate in google colab
 
-# El contenido del curso esta en
----
 
-Algunas referencias :
----
-
-Documentacion para el readme de github:
-https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
 
